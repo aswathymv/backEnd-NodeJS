@@ -1,6 +1,6 @@
-# Places Tracker Web Application
+# Web Application
 
-The Places Tracker Web Application is a feature-rich platform designed to allow users to manage and track places of interest. It provides a secure login/logout functionality with robust authentication and authorization mechanisms. Once logged in, users can add new places, view a comprehensive list of all places, and perform edit and delete operations on the entries.
+An application for users to dd and remove list of places as per their interest with login/logout authentication
 
 ## Application
 
